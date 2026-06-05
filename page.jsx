@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useState } from "react";
 
@@ -485,4 +485,4 @@ export default function RegisterPage() {
       `}</style>
     </div>
   );
-}  
+}
